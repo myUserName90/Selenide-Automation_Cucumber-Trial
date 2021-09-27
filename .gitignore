@@ -1,0 +1,7 @@
+README.md
+/.idea/
+/.allure/
+/target/
+/.iml
+/*.iml
+/build/
